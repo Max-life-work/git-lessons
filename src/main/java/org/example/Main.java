@@ -1,7 +1,5 @@
 package org.example;
-
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
+//new comment
 public class Main {
     public static void main(String[] args) {
         Service firstService = new Service("First service");
