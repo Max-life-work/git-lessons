@@ -1,0 +1,9 @@
+package org.example;
+
+public class Service {
+    private String name;
+
+    public Service(String name) {
+        this.name = name;
+    }
+}
