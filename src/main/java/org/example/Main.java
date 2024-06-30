@@ -6,7 +6,7 @@ public class Main {
     public static void main(String[] args) {
 
         Service firstService = new Service("First service");
-	System.out.println("The class was changed from another place.");
+
 
     }
 }
