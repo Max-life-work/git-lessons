@@ -6,4 +6,8 @@ public class Service {
     public Service(String name) {
         this.name = name;
     }
+
+    public void action() {
+        System.out.println("Action");
+    }
 }
