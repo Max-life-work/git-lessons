@@ -10,4 +10,8 @@ public class Service {
     public void action() {
         System.out.println("Action");
     }
+
+    public void think() {
+        System.out.println("Think");
+    }
 }
