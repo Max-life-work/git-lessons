@@ -26,4 +26,8 @@ public class Service {
     public void eat() {
         System.out.println("Eat");
     }
+
+    public void love() {
+        System.out.println("Love");
+    }
 }
