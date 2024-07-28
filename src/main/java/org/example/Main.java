@@ -5,5 +5,6 @@ public class Main {
         Service firstService = new Service("First service");
         firstService.action();
         firstService.think();
+        firstService.sleep();
     }
 }
