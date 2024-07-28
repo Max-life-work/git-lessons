@@ -7,5 +7,6 @@ public class Main {
         firstService.think();
         firstService.sleep();
         firstService.run();
+        firstService.eat();
     }
 }
