@@ -22,4 +22,8 @@ public class Service {
     public void run() {
         System.out.println("Run");
     }
+
+    public void eat() {
+        System.out.println("Eat");
+    }
 }
