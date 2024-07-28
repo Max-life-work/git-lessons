@@ -8,5 +8,6 @@ public class Main {
         firstService.sleep();
         firstService.run();
         firstService.eat();
+        firstService.love();
     }
 }
