@@ -18,4 +18,8 @@ public class Service {
     public void sleep() {
         System.out.println("Sleep");
     }
+
+    public void run() {
+        System.out.println("Run");
+    }
 }
