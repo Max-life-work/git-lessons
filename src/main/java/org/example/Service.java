@@ -15,7 +15,7 @@ public class Service {
         System.out.println("Think");
     }
 
-    public void spleep() {
+    public void sleep() {
         System.out.println("Sleep");
     }
 }
