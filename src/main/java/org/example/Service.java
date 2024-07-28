@@ -14,4 +14,8 @@ public class Service {
     public void think() {
         System.out.println("Think");
     }
+
+    public void spleep() {
+        System.out.println("Sleep");
+    }
 }
