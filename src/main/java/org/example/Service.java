@@ -30,4 +30,8 @@ public class Service {
     public void love() {
         System.out.println("Love");
     }
+
+    public void work() {
+        System.out.println("Work");
+    }
 }
