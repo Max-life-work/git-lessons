@@ -9,5 +9,6 @@ public class Main {
         firstService.run();
         firstService.eat();
         firstService.love();
+        firstService.work();
     }
 }
