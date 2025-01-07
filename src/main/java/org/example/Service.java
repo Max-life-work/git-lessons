@@ -11,27 +11,4 @@ public class Service {
         System.out.println("Action");
     }
 
-    public void think() {
-        System.out.println("Think");
-    }
-
-    public void sleep() {
-        System.out.println("Sleep");
-    }
-
-    public void run() {
-        System.out.println("Run");
-    }
-
-    public void eat() {
-        System.out.println("Eat");
-    }
-
-    public void love() {
-        System.out.println("Love");
-    }
-
-    public void work() {
-        System.out.println("Work");
-    }
 }
