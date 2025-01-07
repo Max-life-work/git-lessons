@@ -11,4 +11,8 @@ public class Service {
         System.out.println("Action");
     }
 
+    public void task1() {
+        System.out.println("Task 1");
+    }
+
 }
