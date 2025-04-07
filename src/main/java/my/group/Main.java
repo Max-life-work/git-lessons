@@ -15,5 +15,6 @@ public class Main {
         int lesson95 = 1;
         int lesson96 = 1;
         int lesson97 = 1;
+        int lesson99 =1;
     }
 }
