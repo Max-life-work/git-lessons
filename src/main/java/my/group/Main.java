@@ -13,6 +13,7 @@ public class Main {
         int lesson93 = 1;
         int lesson94 = 1;
         int lesson95 = 1;
+        int lesson96 = 1;
         int lesson97 = 1;
     }
 }
