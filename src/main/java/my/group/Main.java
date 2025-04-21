@@ -20,7 +20,7 @@ public class Main {
 
         int lesson8 = 1;
 
-        int lesson101 =1;
+
 
     }
 }
