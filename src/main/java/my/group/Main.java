@@ -17,6 +17,7 @@ public class Main {
         int lesson97 = 1;
         int lesson98 = 1;
         int lesson99 =1;
+        int lesson12 = 1;
 
 
 
